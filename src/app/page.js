@@ -508,7 +508,7 @@ export default function Home() {
               <option value="tgchannel">TG_Channel</option>
               <option value="r2">R2</option>
               <option value="vviptuangou">vviptuangou</option>
-              <option value="58img">58img</option>
+              <option value="58img">58img（默认）</option>
               <option value="tencent">tencent</option>
 
             </select>
